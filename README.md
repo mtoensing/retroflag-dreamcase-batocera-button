@@ -1,4 +1,4 @@
-# Dreamcase Button for Batocera
+# Retroflag Dreamcase Button for Batocera
 
 This project allows you to use the **hardware button** on the RetroFlag Dreamcase (connected to **BCM 2 / physical pin 3**) to always open the **RetroArch Quick Menu** on a Raspberry Pi 5 running **Batocera**.
 
