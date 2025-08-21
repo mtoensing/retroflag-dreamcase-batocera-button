@@ -5,7 +5,7 @@ This project allows you to use the **hardware button** on the RetroFlag Dreamcas
 ---
 
 ## ✨ Features
-- Press the Dreamcase button → instantly open RetroArch’s Quick Menu.
+- Press the Dreamcase button when the lid is cloded → instantly open RetroArch’s Quick Menu.
 - Works in addition to normal controller hotkeys (`Hotkey + B`, `Hotkey + Start`, etc.).
 - Lightweight shell script, no external dependencies.
 - Debounced input (prevents multiple triggers when the button is held).
