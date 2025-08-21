@@ -22,7 +22,13 @@ This project allows you to use the **hardware button** on the RetroFlag Dreamcas
 
 ## 🚀 Installation
 
-1. **Copy the script** into your Batocera system:
+This can all be done in the samba share.
+
+1. Enable network_cmd_enable = "true" in /userdata/system/configs/retroarch/retroarchcustom.cfg
+    ```bash
+   nano /userdata/system/configs/retroarch/retroarchcustom.cfg
+3. **Copy the script** into your Batocera system:
 
    ```bash
    nano /userdata/system/custom.sh
+4. chmod +x /userdata/system/custom.sh
