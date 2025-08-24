@@ -11,6 +11,10 @@ This project allows you to use the **hardware button** on the [RetroFlag Dreamca
 - Debounced input (prevents multiple triggers when the button is held).
 - Auto-starts with Batocera via `custom.sh`.
 
+## Known Bugs
+- Fires only once.
+- Will be overwritten with each update.
+
 ---
 
 ## ⚙️ Requirements
